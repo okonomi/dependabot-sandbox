@@ -42,6 +42,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  pry
   pry-byebug (= 3.5.1)
   pry-doc (= 0.13.5)
   pry-stack_explorer
