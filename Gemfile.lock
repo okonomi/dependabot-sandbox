@@ -9,8 +9,8 @@ GEM
     debug_inspector (0.0.3)
     jaro_winkler (1.5.2)
     method_source (0.9.2)
-    parallel (1.12.1)
-    parser (2.5.3.0)
+    parallel (1.13.0)
+    parser (2.6.0.0)
       ast (~> 2.4.0)
     powerpack (0.1.2)
     pry (0.12.2)
@@ -26,7 +26,7 @@ GEM
       binding_of_caller (>= 0.7)
       pry (>= 0.9.11)
     rainbow (3.0.0)
-    rubocop (0.61.1)
+    rubocop (0.63.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
@@ -46,7 +46,7 @@ DEPENDENCIES
   pry-byebug (= 3.5.1)
   pry-doc (= 0.13.5)
   pry-stack_explorer
-  rubocop (= 0.61.1)
+  rubocop
 
 BUNDLED WITH
    1.17.3
