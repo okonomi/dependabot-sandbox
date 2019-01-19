@@ -10,5 +10,5 @@ gem "rubocop", require: false
 
 gem 'pry-byebug', '3.5.1'
 gem 'pry-stack_explorer'
-gem 'pry-doc', '0.13.5'
+gem 'pry-doc', '1.0.0'
 gem 'pry'
